@@ -1,4 +1,4 @@
-# 🏀 NBA Playoff Predictor
+# NBA Playoff Predictor
 
 Predict the NBA champion using machine learning. This project pulls real NBA data from the `nba_api`, engineers advanced features from 10 seasons of regular-season stats, and trains **Logistic Regression** + **XGBoost** models to predict game-by-game playoff outcomes and simulate the full bracket.
 
